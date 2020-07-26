@@ -13,3 +13,4 @@ resource "aws_subnet" "prilife" {
     environment = "dev"
   }
 }
+#Oh my God its hard
